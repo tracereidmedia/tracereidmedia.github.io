@@ -1,14 +1,5 @@
 ---
-title: "Creative Design and Direction"
-layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/home.jpg
-  actions:
-    - label: "Contact"
-      url: "/contact/"
-excerpt: "Trace Reid"
+
 feature_row1:
   - image_path: /assets/images/home.jpg
     alt: "Eliza"
