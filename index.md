@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/home.jpg
   actions:
     - label: "Contact"
-      url: /contact/
+      url: "/contact/
 excerpt: "Creative Direction & Design"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -29,7 +29,7 @@ feature_row2:
   - image_path: /assets/images/home_mystory.jpg
     alt: "Final Girl"
     title: "Artist First | My Story"
-    excerpt: 'Finding my passion for Creative Direction & Design at West Virginia University, I've worn many hats while finishing my dual-degree in Advertising & Public Relations and Theatre Design & Technology. From Social Media Management to Costume Design, I have worked to become well versed in the facets it takes to become a storyteller.'
+    excerpt: 'Finding my passion for Creative Direction & Design at West Virginia University, I have worn many hats while finishing my dual-degree in Advertising & Public Relations and Theatre Design & Technology. From Social Media Management to Costume Design, I have worked to become well versed in the facets it takes to become a storyteller.
     url: /about/
     btn_label: "Explore"
     btn_class: "btn--danger"
