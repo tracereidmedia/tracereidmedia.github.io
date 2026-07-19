@@ -1,5 +1,6 @@
 ---
-
+layout: single
+classes: wide
 feature_row1:
   - image_path: /assets/images/home.jpg
     alt: "Eliza"
@@ -30,6 +31,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: ""
     title: "Theatre Direction"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row4:
