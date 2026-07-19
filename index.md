@@ -1,17 +1,14 @@
 ---
-title: "Splash Page"
+title: "Trace Reid Media"
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/home.jpg
   actions:
-    - label: "Learn More"
-      url: "/terms/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Trace Reid Media - Creative Direction & Design"
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+    - label: "Contact"
+      url: /contact/
+excerpt: "Creative Direction & Design"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -29,13 +26,13 @@ feature_row:
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/home_mystory.jpg
+    alt: "Final Girl"
+    title: "Artist First | My Story"
+    excerpt: 'Finding my passion for Creative Direction & Design at West Virginia University, I've worn many hats while finishing my dual-degree in Advertising & Public Relations and Theatre Design & Technology. From Social Media Management to Costume Design, I have worked to become well versed in the facets it takes to become a storyteller.'
+    url: /about/
+    btn_label: "Explore"
+    btn_class: "btn--danger"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
@@ -53,8 +50,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
