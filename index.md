@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Creative Design and Direction"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,9 +8,7 @@ header:
   actions:
     - label: "Contact"
       url: "/contact/"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+excerpt: "Trace Reid"
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
@@ -34,7 +32,7 @@ feature_row2:
     excerpt: 'Finding my passion for Creative Direction & Design at West Virginia University, I have worn many hats while finishing my dual-degree in Advertising & Public Relations and Theatre Design & Technology. From Social Media Management to Costume Design, I have worked to become well versed in the facets it takes to become a storyteller.'
     url: "/about/"
     btn_label: "Explore"
-    btn_class: "btn--danger"
+    btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
