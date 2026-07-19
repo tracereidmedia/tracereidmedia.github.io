@@ -28,7 +28,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/home_mystory.jpg
     alt: "Final Girl"
-    title: "Artist First | **My Story**"
+    title: "Artist First | My Story"
     excerpt: 'Finding my passion for Creative Direction & Design at West Virginia University, I have worn many hats while finishing my dual-degree in Advertising & Public Relations and Theatre Design & Technology. From Social Media Management to Costume Design, I have worked to become well versed in the facets it takes to become a storyteller.'
     url: "/about/"
     btn_label: "Explore"
