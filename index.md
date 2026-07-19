@@ -17,10 +17,10 @@ feature_row:
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/home_mystory.jpg
+    alt: "Final Girl"
+    title: "Artist First | My Story"
+    excerpt: "Finding my passion for Creative Direction & Design at West Virginia University, I've worn many hats while finishing my dual-degree in Advertising & Public Relations and Theatre Design & Technology. From Social Media Management to Costume Design, I have worked to become well versed in the facets it takes to become a storyteller."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
